@@ -33,6 +33,3 @@ ___
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=fff&link=mailto:mangoya812@gmail.com"/>
 </a> 
 
-<a href="https://instagram.com/ebichu_h2">
-    <img src="http://img.shields.io/badge/-Instagram-e2b9ff?style=flat&logo=Instagram&link=https://instagram.com/ebichu_h2/"
-</a>
