@@ -34,7 +34,7 @@ ___
 
 <div align=center>  
   
-### 💖love it💖
+### 💖Love it💖
  
   </br>
     
